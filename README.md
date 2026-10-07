@@ -110,18 +110,17 @@ Cours du soir en enseignement supérieur : « structures de données » (Bac+2) 
 Curiosité · Autonomie · Travail d'équipe · Engagement · Adaptabilité · Éthique professionnelle · Pédagogie · Proactivité · Organisation · Agilité · Esprit d'analyse · Leadership technique
 
 ---
-<!--
 ## 📈 GitHub
 
-<div align="center">
+<!--div align="center">
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=VOTRE-PSEUDO&show_icons=true&hide_border=true&count_private=true)
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE-PSEUDO&layout=compact&hide_border=true)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=bertrandgrosclaude&show_icons=true&hide_border=true&count_private=true) -->
 
-</div>
+<a href="https://github.com/bertrandgrosclaude/GraphQLDemo"><img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=bertrandgrosclaude&repo=GraphQLDemo&show_owner=false&hide_border=false" alt="GraphQLDemo" /></a>
+
 
 ---
--->
+
 <div align="center">
 
 *Disponible pour échanger sur l'architecture logicielle, la modernisation et l'intégration d'agents IA.*
