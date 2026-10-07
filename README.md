@@ -116,6 +116,7 @@ Curiosité · Autonomie · Travail d'équipe · Engagement · Adaptabilité · �
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=bertrandgrosclaude&show_icons=true&hide_border=true&count_private=true) -->
 
+<a href="https://github.com/bertrandgrosclaude/stop-display"><img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=bertrandgrosclaude&repo=stop-display&show_owner=false&hide_border=false" alt="stop-display" /></a>
 <a href="https://github.com/bertrandgrosclaude/GraphQLDemo"><img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=bertrandgrosclaude&repo=GraphQLDemo&show_owner=false&hide_border=false" alt="GraphQLDemo" /></a>
 
 
