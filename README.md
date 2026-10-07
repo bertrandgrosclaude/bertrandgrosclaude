@@ -7,7 +7,7 @@
 
 ### Architecte logiciel senior · Tech Lead · Ingénieur UTBM
 
-**25+ ans de R&D chez des éditeurs de progiciels · Java/JEE · API **
+**25+ ans de R&D chez des éditeurs de progiciels · Java/JEE · API**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Me_contacter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bertrand-grosclaude/)
 
